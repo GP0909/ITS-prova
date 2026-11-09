@@ -24,4 +24,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: selign/hello-world:1.0
+          tags: greta0909/hello-world:1.0
